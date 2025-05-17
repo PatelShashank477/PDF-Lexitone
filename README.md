@@ -148,18 +148,6 @@ PDF-Lexitone/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it with proper attribution.
-
----
-
-## 👤 Author
-
-**Shashank Patel**
-GitHub: [PatelShashank477](https://github.com/PatelShashank477)
-
----
 
 ## 📌 Future Enhancements
 
@@ -170,8 +158,3 @@ GitHub: [PatelShashank477](https://github.com/PatelShashank477)
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-If you need assistance with creating a `requirements.txt` file, setting up deployment, or any other aspect of the project, feel free to ask!
